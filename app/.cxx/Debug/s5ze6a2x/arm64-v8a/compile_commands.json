@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/Ujjwal/AndroidStudioProjects/InterActiveVoice/app/.cxx/Debug/s5ze6a2x/arm64-v8a",
+  "command": "C:\\Users\\Ujjwal\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/Ujjwal/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dwhisper_EXPORTS -IC:/Users/Ujjwal/AndroidStudioProjects/InterActiveVoice/app/src/main/cpp -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\whisper.dir\\whisper.cpp.o -c C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\src\\main\\cpp\\whisper.cpp",
+  "file": "C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\src\\main\\cpp\\whisper.cpp"
+},
+{
+  "directory": "C:/Users/Ujjwal/AndroidStudioProjects/InterActiveVoice/app/.cxx/Debug/s5ze6a2x/arm64-v8a",
+  "command": "C:\\Users\\Ujjwal\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/Ujjwal/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dwhisper_EXPORTS -IC:/Users/Ujjwal/AndroidStudioProjects/InterActiveVoice/app/src/main/cpp -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\whisper.dir\\whisper_jni.cpp.o -c C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\src\\main\\cpp\\whisper_jni.cpp",
+  "file": "C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\src\\main\\cpp\\whisper_jni.cpp"
+},
+{
+  "directory": "C:/Users/Ujjwal/AndroidStudioProjects/InterActiveVoice/app/.cxx/Debug/s5ze6a2x/arm64-v8a",
+  "command": "C:\\Users\\Ujjwal\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/Ujjwal/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dwhisper_EXPORTS -IC:/Users/Ujjwal/AndroidStudioProjects/InterActiveVoice/app/src/main/cpp -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\whisper.dir\\ggml.c.o -c C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\src\\main\\cpp\\ggml.c",
+  "file": "C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\src\\main\\cpp\\ggml.c"
+}
+]

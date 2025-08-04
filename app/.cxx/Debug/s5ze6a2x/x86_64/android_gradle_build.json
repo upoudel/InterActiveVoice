@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Ujjwal\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\.cxx\\Debug\\s5ze6a2x\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Ujjwal\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\.cxx\\Debug\\s5ze6a2x\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "whisper::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "whisper",
+      "output": "C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\build\\intermediates\\cxx\\Debug\\s5ze6a2x\\obj\\x86_64\\libwhisper.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\Ujjwal\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\Ujjwal\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

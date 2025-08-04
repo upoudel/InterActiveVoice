@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Ujjwal\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\.cxx\\Debug\\s5ze6a2x\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Ujjwal\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\.cxx\\Debug\\s5ze6a2x\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "whisper::@6890427a1f51a3e7e1df": {
+      "artifactName": "whisper",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Ujjwal\\AndroidStudioProjects\\InterActiveVoice\\app\\build\\intermediates\\cxx\\Debug\\s5ze6a2x\\obj\\x86_64\\libwhisper.so",
+      "runtimeFiles": []
+    }
+  }
+}

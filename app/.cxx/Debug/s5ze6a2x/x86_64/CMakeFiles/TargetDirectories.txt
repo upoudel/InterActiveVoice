@@ -1,0 +1,3 @@
+C:/Users/Ujjwal/AndroidStudioProjects/InterActiveVoice/app/.cxx/Debug/s5ze6a2x/x86_64/CMakeFiles/whisper.dir
+C:/Users/Ujjwal/AndroidStudioProjects/InterActiveVoice/app/.cxx/Debug/s5ze6a2x/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Ujjwal/AndroidStudioProjects/InterActiveVoice/app/.cxx/Debug/s5ze6a2x/x86_64/CMakeFiles/rebuild_cache.dir
